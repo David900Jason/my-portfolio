@@ -9,6 +9,8 @@
 - [ ] export design files
 - [ ] get the required images and adjust their widths and heights
 - [ ] start coding...
+
+## Sections to code
 * [ ] header
 * [ ] navbar
 * [ ] hero
