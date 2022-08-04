@@ -7,6 +7,7 @@
 - [ ] Make a mockup design on paper
 - [ ] Finish the landing page on figma
 - [ ] export design files
+- [ ] Bring in my Assets (Fonts, Images, designFiles, FontAwesome, etc...)
 - [ ] get the required images and adjust their widths and heights
 - [ ] start coding...
 
