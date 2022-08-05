@@ -6,6 +6,8 @@
 - [x] upload a dist folder as an alpha version
 - [ ] Make a mockup design on paper
 - [ ] Finish the landing page on figma
+- [ ] Make a responsive version
+- [ ] Choose a color Pallete and apply it on your design.
 - [ ] export design files
 - [ ] Bring in my Assets (Fonts, Images, designFiles, FontAwesome, etc...)
 - [ ] get the required images and adjust their widths and heights
