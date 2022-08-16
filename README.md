@@ -6,11 +6,11 @@
 - [x] upload a dist folder as an alpha version
 - [x] Make a mockup design on paper
 - [x] Finish the landing page on figma
-- [ ] Make a responsive version
+- [x] Make a responsive version
 - [x] Choose a color Pallete and apply it on your design.
-- [ ] export design files
-- [ ] Bring in my Assets (Fonts, Images, designFiles, FontAwesome, etc...)
-- [ ] get the required images and adjust their widths and heights
+- [x] export design files
+- [x] Bring in my Assets (Fonts, Images, designFiles, FontAwesome, etc...)
+- [x] get the required images and adjust their widths and heights
 - [ ] start coding...
 
 ## Sections to code
